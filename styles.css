@@ -1,0 +1,20 @@
+h1{
+    color: rgb(255, 166, 0);
+}
+.name{
+     color: aqua
+}
+
+ .description{ 
+    color: #ff0000;
+
+}
+.DarkModeHeading
+ {
+    background-color: black;
+    color: blue;
+ }
+.darkMode {
+    background-color: black;
+    color: azure;
+}
